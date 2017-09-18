@@ -1,0 +1,6 @@
+@startuml
+  [edw.p_cnt_opid()]->[edw.p_fct_detail_scgpwg2()]
+[edw.p_fct_detail_scgpwg2()]->[edw.p_rst_finish_frontline]
+[edw.p_fct_detail_scgpwg2()]->[edw.p_rst_finish_sku]
+[edw.p_fct_detail_scgpwg2()]->[edw.p_rst_finish_zipper]
+@enduml

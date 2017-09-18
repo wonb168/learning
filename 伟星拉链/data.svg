@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="266px" preserveAspectRatio="none" style="width:552px;height:266px;" version="1.1" viewBox="0 0 552 266"
+    width="552px" zoomAndPan="magnify"><defs><filter height="300%" id="f1unf19sjzf7lh" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="115" x="218" y="10"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="228" y="33.752">edw.p_cnt_opid()</text><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="174" x="188.5" y="66.3887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="154" x="198.5" y="90.1406">edw.p_fct_detail_scgpwg2()</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="95" x2="461.5" y1="122.7773" y2="122.7773"/><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="170" x="10" y="142.7773"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="150" x="20" y="166.5293">edw.p_rst_finish_frontline()</text><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="146" x="208" y="142.7773"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="126" x="218" y="166.5293">edw.p_rst_finish_sku()</text><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="159" x="382" y="142.7773"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="139" x="392" y="166.5293">edw.p_rst_finish_zipper()</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="95" x2="461.5" y1="199.166" y2="199.166"/><rect fill="#FEFECE" filter="url(#f1unf19sjzf7lh)" height="36.3887" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="50" x="250.5" y="219.166"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="30" x="260.5" y="242.918">finish</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="275.5" x2="275.5" y1="46.3887" y2="66.3887"/><polygon fill="#A80036" points="271.5,56.3887,275.5,66.3887,279.5,56.3887,275.5,60.3887" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="95" x2="95" y1="124.2773" y2="142.7773"/><polygon fill="#A80036" points="91,132.7773,95,142.7773,99,132.7773,95,136.7773" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="281" x2="281" y1="124.2773" y2="142.7773"/><polygon fill="#A80036" points="277,132.7773,281,142.7773,285,132.7773,281,136.7773" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="461.5" x2="461.5" y1="124.2773" y2="142.7773"/><polygon fill="#A80036" points="457.5,132.7773,461.5,142.7773,465.5,132.7773,461.5,136.7773" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="95" x2="95" y1="179.166" y2="199.166"/><polygon fill="#A80036" points="91,189.166,95,199.166,99,189.166,95,193.166" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="281" x2="281" y1="179.166" y2="199.166"/><polygon fill="#A80036" points="277,189.166,281,199.166,285,189.166,281,193.166" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="461.5" x2="461.5" y1="179.166" y2="199.166"/><polygon fill="#A80036" points="457.5,189.166,461.5,199.166,465.5,189.166,461.5,193.166" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="275.5" x2="275.5" y1="102.7773" y2="122.7773"/><polygon fill="#A80036" points="271.5,112.7773,275.5,122.7773,279.5,112.7773,275.5,116.7773" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="275.5" x2="275.5" y1="200.666" y2="219.166"/><polygon fill="#A80036" points="271.5,209.166,275.5,219.166,279.5,209.166,275.5,213.166" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+   :edw.p_cnt_opid();
+  :edw.p_fct_detail_scgpwg2();
+  split
+   :edw.p_rst_finish_frontline();
+  split again
+   :edw.p_rst_finish_sku();
+  split again
+   :edw.p_rst_finish_zipper();
+
+  end split
+:finish;
+@enduml
+
+PlantUML version 1.2017.14(Mon Jun 05 17:56:32 CST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_31-b13
+Operating System: Windows 8.1
+OS Version: 6.3
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
