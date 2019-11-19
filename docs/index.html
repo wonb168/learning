@@ -12,10 +12,23 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+        // 加载 _sidebar.md
+        loadSidebar: true,
+        maxLever:2,
+        loadNavbar:true,
+        // subMaxLevel: 2,
+
+        // 加载 software.md
+        // loadSidebar: 'tools/software.md',
+    //     // loadSidebar: 'linux/scp.md',
+    //   name: '',
+    //   repo: '',
+      search:'auto',
+      auto2top: true
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify"></script>
 </body>
 </html>

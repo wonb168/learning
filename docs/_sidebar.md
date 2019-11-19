@@ -1,0 +1,7 @@
+* [linux](linux/)
+    * [scp用法](linux/scp)
+    * [gp集群](linux/gp集群)
+* [windows](windows/)
+    * [批量修改图片大小](windows/批量修改图片大小)
+* [工具](tools/)
+    * [常用软件](tools/software)
