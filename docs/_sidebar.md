@@ -1,6 +1,6 @@
 * [首页](/)
 * [sql](sql/)
-    * [sql集锦](sql/sql经典问题)
+    * [sql经典问题](sql/sql经典问题)
     * [postgre常用](sql/postgre常用)
     * [oracle常用](sql/oracle常用)
     * [sqlserver常用](sql/sqlserver常用)
