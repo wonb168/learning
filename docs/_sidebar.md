@@ -1,13 +1,19 @@
 * [首页](/)
-* [sql](sql/)
-    * [sql经典问题](sql/sql经典问题)
-    * [postgre常用](sql/postgre常用)
-    * [oracle常用](sql/oracle常用)
-    * [sqlserver常用](sql/sqlserver常用)
-* [linux](linux/)
-    * [scp用法](linux/scp)
-    * [gp集群](linux/gp集群)
-* [windows](windows/)
+* [tools]
+    * [software](tools/software)
+* [android]
+    * [安卓手机安装linux](android/安卓手机安装linux)
+* [windows]
     * [批量修改图片大小](windows/批量修改图片大小)
-* [工具](tools/)
-    * [常用软件](tools/software)
+* [projects]
+    * [项目问题总结](projects/项目问题总结)
+* [linux]
+    * [mapd](linux/mapd)
+    * [scp](linux/scp)
+    * [gp集群](linux/gp集群)
+* [sql]
+    * [postgre常用](sql/postgre常用)
+    * [sqlserver常用](sql/sqlserver常用)
+    * [oracle常用](sql/oracle常用)
+    * [sql经典问题](sql/sql经典问题)
+* [spark]
