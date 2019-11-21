@@ -1,12 +1,13 @@
 - linux 
     - [mapd](/linux/mapd)
     - [安卓手机安装linux](/linux/安卓手机安装linux)
-    - [scp](/linux/scp)
     - [gp集群](/linux/gp集群)
+    - [linux常用命令](/linux/linux常用命令)
 - projects 
     - [项目问题总结](/projects/项目问题总结)
 - spark 
     - [spark读写jdbc数据库](/spark/spark读写jdbc数据库)
+    - [centos安装spark](/spark/centos安装spark)
 - sql 
     - [postgre常用](/sql/postgre常用)
     - [sqlserver常用](/sql/sqlserver常用)

@@ -43,7 +43,8 @@ README.md 会做为主页内容渲染
 ```
 docsify serve docs
 ``` 
-通过 http://localhost:3000访问。LiveReload 功能，md修改可以实时预览。
+通过 http://localhost:3000访问。
+LiveReload，md修改可以实时预览。
 
 ## github发布
 将docs目录放到一个github工程中，进入该工程的setting：
