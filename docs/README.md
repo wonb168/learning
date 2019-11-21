@@ -1,6 +1,6 @@
 # 我的博客是怎么炼成的？——振振有CI
 一直都想弄个自己的博客，想想需要制作网页（即使有博客框架、模板也挺复杂），最关键还得有外网服务器进行部署，就打住了。
-直到发现了docsify+github这对“黄金搭档”。
+直到发现了docsify+github这对“黄金搭档”:
 1. docsify： 实时渲染markdown文件为html
 2. github：  github page可以将你的git工程发布为个人网页
 
