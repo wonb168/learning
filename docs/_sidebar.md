@@ -5,12 +5,15 @@
     - [linux常用命令](/linux/linux常用命令)
 - projects 
     - [项目问题总结](/projects/项目问题总结)
+- python语言 
+    - [python操作ftp](/python语言/python操作ftp)
 - spark 
     - [spark读写jdbc数据库](/spark/spark读写jdbc数据库)
     - [centos安装spark](/spark/centos安装spark)
 - sql 
     - [postgre常用](/sql/postgre常用)
     - [sqlserver常用](/sql/sqlserver常用)
+    - [sqlpad](/sql/sqlpad)
     - [oracle常用](/sql/oracle常用)
     - [sql经典问题](/sql/sql经典问题)
 - tools 
