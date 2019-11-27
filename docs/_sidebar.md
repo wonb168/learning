@@ -1,4 +1,5 @@
 - linux 
+    - [manjaro](/linux/manjaro)
     - [mapd](/linux/mapd)
     - [安卓手机安装linux](/linux/安卓手机安装linux)
     - [gp集群](/linux/gp集群)
@@ -6,9 +7,13 @@
 - projects 
     - [项目问题总结](/projects/项目问题总结)
 - python语言 
+    - [python2转python3](/python语言/python2转python3)
     - [python操作ftp](/python语言/python操作ftp)
+    - [亲子python系列](/python语言/亲子python系列)
 - spark 
     - [spark读写jdbc数据库](/spark/spark读写jdbc数据库)
+    - [zeppelin](/spark/zeppelin)
+    - [spark读写hive](/spark/spark读写hive)
     - [centos安装spark](/spark/centos安装spark)
 - sql 
     - [postgre常用](/sql/postgre常用)

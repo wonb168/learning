@@ -8,6 +8,7 @@ sudo pacman -S yay
 - 笔记 yay -S notable-bin
 - 全平台下载软件 motrix
 - 截屏软件 flameshot
+- 终端（免断线） byobu
 
 ## 安卓app
 - termux（安卓上的linux）
