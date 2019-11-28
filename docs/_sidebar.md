@@ -14,10 +14,13 @@
     - [spark读写jdbc数据库](/spark/spark读写jdbc数据库)
     - [zeppelin](/spark/zeppelin)
     - [spark读写hive](/spark/spark读写hive)
+    - [spark读写excel](/spark/spark读写excel)
     - [centos安装spark](/spark/centos安装spark)
+    - [polynote](/spark/polynote)
 - sql 
     - [postgre常用](/sql/postgre常用)
     - [sqlserver常用](/sql/sqlserver常用)
+    - [自动化ETL](/sql/自动化ETL)
     - [sqlpad](/sql/sqlpad)
     - [oracle常用](/sql/oracle常用)
     - [sql经典问题](/sql/sql经典问题)
