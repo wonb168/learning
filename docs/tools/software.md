@@ -26,4 +26,8 @@ sudo pacman -S yay
 - tower（日程，可微信提醒）
 - 哈啰出行、嘀嗒出行（顺风车）
 - VPNHub
-- 
+- 手机同屏神器：airdroid
+## 网页版
+蓝菊花（搜书）
+搜索引擎：mijisou.com、goobe.io、dogedoge.com
+

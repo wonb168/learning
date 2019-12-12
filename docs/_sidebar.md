@@ -2,29 +2,40 @@
     - [manjaro](/linux/manjaro)
     - [mapd](/linux/mapd)
     - [安卓手机安装linux](/linux/安卓手机安装linux)
+    - [shell](/linux/shell)
     - [gp集群](/linux/gp集群)
     - [linux常用命令](/linux/linux常用命令)
+- markdown 
+    - [markdown_ppt](/markdown/markdown_ppt)
 - projects 
     - [项目问题总结](/projects/项目问题总结)
-- python语言 
-    - [python2转python3](/python语言/python2转python3)
-    - [python操作ftp](/python语言/python操作ftp)
-    - [亲子python系列](/python语言/亲子python系列)
+- python 
+    - [python](/python/python)
+    - [python_web](/python/python_web)
+    - [python2转python3](/python/python2转python3)
+    - [python操作ftp](/python/python操作ftp)
+    - [vaex](/python/vaex)
+    - [亲子python系列](/python/亲子python系列)
+    - [python发邮件](/python/python发邮件)
+    - [python连数据库](/python/python连数据库)
+    - [python绘制er图](/python/python绘制er图)
 - spark 
     - [spark读写jdbc数据库](/spark/spark读写jdbc数据库)
+    - [spark常用](/spark/spark常用)
     - [zeppelin](/spark/zeppelin)
     - [spark读写hive](/spark/spark读写hive)
+    - [设计文档](/spark/设计文档)
     - [spark读写excel](/spark/spark读写excel)
     - [centos安装spark](/spark/centos安装spark)
     - [polynote](/spark/polynote)
 - sql 
     - [postgre常用](/sql/postgre常用)
     - [sqlserver常用](/sql/sqlserver常用)
-    - [自动化ETL](/sql/自动化ETL)
     - [sqlpad](/sql/sqlpad)
     - [oracle常用](/sql/oracle常用)
     - [sql经典问题](/sql/sql经典问题)
 - tools 
+    - [markdown](/tools/markdown)
     - [software](/tools/software)
 - windows 
     - [批量修改图片大小](/windows/批量修改图片大小)

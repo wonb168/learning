@@ -34,3 +34,16 @@ group by stu_id
 select stu_id, count(*), sum(case when score<60 then 1 else 0) as "不及格"
 from sherry.agg_filter group by stu_id
 ```
+## 查存过
+```
+select * from pg_proc where prosrc like '%rst_oppenning_inventory_fullsize%'
+```
+## 查所有字段
+```
+select a.tablename,string_agg(c.attname,' | ' order by c.attnum)--排序
+from pg_tables a 
+inner join pg_class b on a.tablename=b.relname
+inner join pg_attribute c on b.oid=c.attrelid
+where schemaname='web' and c.attnum>0  and attname not like '...%'--去掉删除的字段
+group by a.tablename
+```
