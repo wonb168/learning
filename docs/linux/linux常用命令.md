@@ -10,3 +10,10 @@ scp -P 44422 root@114.55.33.101:/mnt/mysql/mysql/sanlux/MF_POS.* /var/lib/mysql�
 ```
 ssh-copy-id -i ~/.ssh/id_rsa.pub -p 22 zhangxiwen@121.41.102.241
 ```
+## excel转csv
+```
+yay -S gnumeric
+ssconvert bom.xlsx bom.csv
+ssconvert -S test.xlsx test.csv #加-S，每个sheet转一个csv
+```
+## 修改系统时间

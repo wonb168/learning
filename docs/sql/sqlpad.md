@@ -1,6 +1,7 @@
 # sqlpad
 ## 安装
 - 安装nodejs
+
 ```
 wget https://nodejs.org/dist/v9.3.0/node-v9.3.0-linux-x64.tar.xz
 xz -d node-v9.3.0-linux-x64.tar.xz

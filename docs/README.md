@@ -7,6 +7,7 @@
 ## docsify安装配置
 ```
 # 安装
+yay -s npm
 npm i docsify-cli -g
 # 初始化
 docsify init ./docs
