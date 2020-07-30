@@ -1,4 +1,5 @@
 - bigdata 
+    - [clickhouse](/bigdata/clickhouse)
     - [kylin权威指南](/bigdata/kylin权威指南)
 - flink 
     - [kafka](/flink/kafka)
@@ -41,7 +42,6 @@
     - [spark读写excel](/spark/spark读写excel)
 - sql 
     - [sqlplus安装](/sql/sqlplus安装)
-    - [clickhouse](/sql/clickhouse)
     - [sql经典问题](/sql/sql经典问题)
     - [sqlserver常用](/sql/sqlserver常用)
     - [sqlpad](/sql/sqlpad)
