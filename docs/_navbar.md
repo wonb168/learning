@@ -1,5 +1,3 @@
-```javascript
-* [项目介绍](zh-cn/项目介绍.md)
-* **设计文档**
-  * [接口文档](zh-cn/设计文档/接口文档.md)
-```
+* [首页](/)
+* [tools]
+    * [software](tools/software)
