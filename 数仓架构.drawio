@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T08:12:04.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 YaBrowser/21.3.1.91 Yowser/2.5 Safari/537.36" version="14.6.5" etag="ygxH_Wbm5TeiSNf3_TZ2" type="github"><diagram id="U_drouEuEXKegLCTS_Py">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T08:46:22.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 YaBrowser/21.3.1.91 Yowser/2.5 Safari/537.36" etag="Wqnf6s4y4BAKwqwgFO0V" version="14.6.5" type="github">
+  <diagram id="U_drouEuEXKegLCTS_Py" name="Page-1">
+    <mxGraphModel dx="868" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sttf-hh1RXJl1oundRpG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="415" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-1" value="oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-2" value="sqlserver" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="344" y="430" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-4" value="业务库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-7" value="ods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-8" value="ods_std" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-9" value="edw（dim,fct)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-11" value="dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sttf-hh1RXJl1oundRpG-12" target="Sttf-hh1RXJl1oundRpG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-12" value="adm(adm,rst)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-13" value="rst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-14" value="GP数仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-15" value="后端PG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sttf-hh1RXJl1oundRpG-3" target="Sttf-hh1RXJl1oundRpG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-18" value="kettle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-19" value="kettle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-20" value="fdw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-23" value="airflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-26" value="python&lt;br&gt;+&lt;br&gt;sql" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sttf-hh1RXJl1oundRpG-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="20" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
